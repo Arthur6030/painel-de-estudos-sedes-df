@@ -1,0 +1,6 @@
+{
+  "name": "Painel de Estudos SEDES DF",
+  "description": "Painel de estudos e gerador de prompts direcionados para o concurso da SEDES DF (Técnico Administrativo • Banca Quadrix).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
